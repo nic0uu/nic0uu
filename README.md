@@ -1,6 +1,6 @@
 <!-- Introduccion -->
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">.</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/Nic0uu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Nic0uu?style=social)
 
@@ -27,7 +27,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ai,ps,vscode,c++,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,ai,ps,cpp,html,css" />
   </a>
 </p>
 
